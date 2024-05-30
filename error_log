@@ -1,0 +1,58 @@
+[28-May-2024 10:45:10 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 10:45:10 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/jokisini/public_html/arsip-marga/vendor/composer/platform_check.php on line 24
+[28-May-2024 10:46:51 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 10:47:06 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 10:48:04 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 10:50:27 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 11:24:11 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 11:24:33 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:00:30 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:00:31 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:00:33 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:08:29 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:08:36 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:08:42 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:08:49 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:09:10 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:20:54 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:31:36 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:38:56 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 12:58:46 UTC] PHP Warning:  require(/home/jokisini/public_html/arsip-marga/vendor/autoload.php): Failed to open stream: No such file or directory in /home/jokisini/public_html/index.php on line 13
+[28-May-2024 12:58:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jokisini/public_html/arsip-marga/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jokisini/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jokisini/public_html/index.php on line 13
+[28-May-2024 12:59:38 UTC] PHP Warning:  require(/home/jokisini/public_html/arsip-marga/vendor/autoload.php): Failed to open stream: No such file or directory in /home/jokisini/public_html/index.php on line 13
+[28-May-2024 12:59:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jokisini/public_html/arsip-marga/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jokisini/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jokisini/public_html/index.php on line 13
+[28-May-2024 13:08:44 UTC] PHP Warning:  require(/home/jokisini/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/jokisini/public_html/index.php on line 13
+[28-May-2024 13:08:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jokisini/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jokisini/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jokisini/public_html/index.php on line 13
+[28-May-2024 15:08:53 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 15:15:03 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 15:15:10 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 15:16:32 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 16:19:39 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 16:35:51 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 16:58:17 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:02:36 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:05:03 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:09:29 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:24:52 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:37:07 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:40:25 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:45:12 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:45:20 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:45:31 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:45:31 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:45:32 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:47:17 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:47:20 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 17:47:22 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 21:45:54 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 21:47:38 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
+[28-May-2024 21:47:45 UTC] PHP Warning:  Module "igbinary" is already loaded in Unknown on line 0
